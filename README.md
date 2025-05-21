@@ -129,5 +129,3 @@ com.xiaoyongcai.io.edvancemyself
 - Spring Boot Web
 - Spring Boot Starter
 ```
-
-此 README 文档提供了项目的完整说明，包括功能、接口规范、测试方法和代码结构，适合中文用户阅读和理解。
